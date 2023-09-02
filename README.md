@@ -1,4 +1,4 @@
-# olá me chamo Santiago Nogueira
+# Olá me chamo Santiago Nogueira
 
 ## Estudo ADS na unifametro e estou no 4° semestre
 
