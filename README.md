@@ -23,4 +23,7 @@
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoNogueira66&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=3198FF&icon_color=3198FF&text_color=c9d1d9&bg_color=0d1117" alt="KauanCarolino github stats"/>
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiagoNogueira66&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielhenrique&layout=compact&langs_count=16&theme=dark"/>
+</div>
