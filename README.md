@@ -5,7 +5,7 @@
 ### Tecnologias que costumo usar em meu cotidiano
 
 
-<div class="technologies">    
+<div class="technologies" align="center">    
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white) 
@@ -23,11 +23,12 @@
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </div>
+
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=santiagoNogueira66&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoNogueira66&layout=compact&langs_count=16&theme=dark"/>
+</div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{santiagoNogueira66}/count.svg" /></p> 
 <br></div>
-<div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=santiagoNogueira66&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoNogueira66&layout=compact&langs_count=16&theme=dark"/>
-</div>
