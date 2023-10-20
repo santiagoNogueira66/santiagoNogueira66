@@ -27,7 +27,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santiagoNogueira66&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoNogueira66&layout=compact&langs_count=16&theme=dark"/>
 </div>
-<div>
-<br><p><b>Visitors Count</b></p>  
-<p ><img align="center" src="https://profile-counter.glitch.me/{santiagoNogueira66}/count.svg" /></p> 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KauanCarolino}/count.svg" /></p> 
 <br></div>
