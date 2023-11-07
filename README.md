@@ -24,11 +24,11 @@
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </div>
 
-<div align="center">
+<div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santiagoNogueira66&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoNogueira66&layout=compact&langs_count=16&theme=dark"/>
 </div>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{santiagoNogueira66}/count.svg" /></p> 
+<div>
+<br><p><b>Visitors Count</b></p>  
+<p align="center"><img src="https://profile-counter.glitch.me/{santiagoNogueira66}/count.svg" /></p> 
 <br></div>
