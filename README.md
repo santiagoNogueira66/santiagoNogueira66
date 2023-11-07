@@ -5,7 +5,7 @@
 ### Tecnologias que costumo usar em meu cotidiano
 
 
-<div class="technologies" align="center">    
+<div class="technologies">    
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white) 
