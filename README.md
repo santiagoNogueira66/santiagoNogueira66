@@ -30,5 +30,5 @@
 </div>
 <div>
 <br><p><b>Visitors Count</b></p>  
-<p align="center"><img src="https://profile-counter.glitch.me/{santiagoNogueira66}/count.svg" /></p> 
+<p><img src="https://profile-counter.glitch.me/{santiagoNogueira66}/count.svg" /></p> 
 <br></div>
