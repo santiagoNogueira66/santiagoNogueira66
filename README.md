@@ -1,6 +1,6 @@
 # Olá me chamo Santiago Nogueira
 
-## Estudo ADS na unifametro e estou no 4° semestre
+## Estudo ADS na unifametro e estou no 5° semestre
 
 ### Tecnologias que costumo usar em meu cotidiano
 
@@ -22,13 +22,12 @@
     <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![alt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)    
 </div>
 
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=santiagoNogueira66&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoNogueira66&layout=compact&langs_count=16&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=santiagoNogueira66&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoNogueira66&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <div>
-<br><p><b>Visitors Count</b></p>  
-<p><img src="https://profile-counter.glitch.me/{santiagoNogueira66}/count.svg" /></p> 
-<br></div>
+
